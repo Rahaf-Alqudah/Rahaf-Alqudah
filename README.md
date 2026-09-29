@@ -3,7 +3,16 @@
 # Hi I am Rahaf-Alqudah 👩‍💻
 ### Software Engineer | Flutter & Full Stack Developer
 ## Teach stack 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,linkedin)](https://skillicons.dev)
+### Technologies
+
+- Flutter
+- React
+- Node.js
+- PHP
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linkedin)](https://skillicons.dev)
+
+
 
 
 
