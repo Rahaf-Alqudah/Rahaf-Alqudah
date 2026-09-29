@@ -10,7 +10,7 @@
 - Node.js
 - PHP
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linkedin,java,gmail)](https://skillicons.dev)
 
 
 
