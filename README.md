@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Rahaf-Alqudah&label=Profile+Views)
 
 # Hi I am Rahaf-Alqudah 👩‍💻
-### AWS Solutions Architect | Full Stack Developer | IT Trainer
+### Software Engineer | Flutter & Full Stack Developer
 
 <!--
 **Rahaf-Alqudah/Rahaf-Alqudah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
